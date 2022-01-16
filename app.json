@@ -5,7 +5,7 @@
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "e3031182-919c-4375-89fc-66f313c47297"
         },
         "WSPATH": {
             "description": "WebSocket Path",
@@ -13,6 +13,6 @@
         }
     },
     "website": "https://scaleway.com/",
-    "repository": "https://github.com/York-s-Blog/doesit",
+    "repository": "https://github.com/v2teast/doesit",
     "stack": "container"
 }
